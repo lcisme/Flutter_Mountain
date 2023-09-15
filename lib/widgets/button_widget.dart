@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tripsmountain/core/color_palette.dart';
+import 'package:tripsmountain/core/constant/color_palette.dart';
 
 class ButtonNext extends StatelessWidget{
   double? width;
